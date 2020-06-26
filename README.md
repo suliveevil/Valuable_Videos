@@ -1,4 +1,4 @@
-# Valuable Videos [Videos in Chinese](./README_cn.md)
+# Valuable Videos & [Videos in Chinese](./README_cn.md)
 
 Valuable short videos and video sets.
 
