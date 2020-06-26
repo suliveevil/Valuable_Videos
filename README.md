@@ -1,2 +1,42 @@
-# -
-以收集较短的视频或视频集为主要目标
+# Valuable Videos [Videos in Chinese](./README_cn.md)
+
+Valuable short videos and video sets.
+
+
+
+## Video manipulate
+
+
+## Image manipulate
+
+
+
+## Text manipulate
+
+
+
+## Text Editor - Vim
+
+
+## Text Editor - Emacs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
